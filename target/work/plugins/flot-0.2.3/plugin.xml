@@ -1,0 +1,13 @@
+<plugin name='flot' version='0.2.3' grailsVersion='1.1.1 &gt; *'>
+  <author>Bertrand Goetzmann</author>
+  <authorEmail>bgoetzmann@odelia-technologies.com</authorEmail>
+  <title>Grails Flot Plugin</title>
+  <description>\
+Provides integration with the Flot JavaScript library (http://code.google.com/p/flot/).
+</description>
+  <documentation>http://grails.org/plugin/flot</documentation>
+  <resources>
+    <resource>com.odelia.grails.plugins.flot.FlotTagLib</resource>
+  </resources>
+  <dependencies />
+</plugin>
